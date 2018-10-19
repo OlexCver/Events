@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {B92DF4D2-F33F-4208-A387-8BAA4A5D7A62}
+database: master
+path: /sitecore/content/Events/Home/Events/Hiking/2018/09/Hiking Pikes Peak
+parent: {F625B8FD-5CD7-4902-997A-ED7539558EF0}
+name: Hiking Pikes Peak
+master: {00000000-0000-0000-0000-000000000000}
+template: {FAA70993-D6D8-441F-9DFE-32E44B71744D}
+templatekey: Event Details
+created: 20180911T123049:636722658499000000
+
+----version----
+language: en
+version: 1
+revision: 3b86aeb1-839b-4e6d-9b13-7af3b4af7e6f
+
+----field----
+field: {1384A77F-8E0C-40BA-B628-3C5ED330DD86}
+name: ContentHeading
+key: contentheading
+content-length: 17
+
+Hiking Pikes Peak
+----field----
+field: {F994B984-4F25-41E1-8680-A6A297242950}
+name: Event Image
+key: event image
+content-length: 58
+
+<image mediaid="{A38627C0-ABEE-4466-B129-245FA7B3D1C4}" />
+----field----
+field: {316D090C-0128-4C15-AE3E-0B7AC6423197}
+name: DecorationBanner
+key: decorationbanner
+content-length: 239
+
+<image mediapath="/TAC/Common/Headings/carousel-climbing" alt="" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="~/media/TAC/Common/Headings/carousel-climbing" mediaid="{4764709B-629D-4D23-80D0-EBCA1B2920FF}" />
+----field----
+field: {F35DACEC-61A9-49C5-90BD-05E58F0C7727}
+name: MetaTitle
+key: metatitle
+content-length: 17
+
+Hiking Pikes Peak
+----field----
+field: {D3355E3F-5A74-48D8-9077-DC53163DB895}
+name: Start Date
+key: start date
+content-length: 16
+
+20180911T210000Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180911T123049Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3b86aeb1-839b-4e6d-9b13-7af3b4af7e6f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180927T134712Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

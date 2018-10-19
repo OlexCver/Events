@@ -1,0 +1,94 @@
+----item----
+version: 1
+id: {8DF2FF25-CB4A-40F2-A5A9-806BD3A11BBD}
+database: master
+path: /sitecore/content/Events/Home
+parent: {344095B1-01F2-4AE7-A0D5-9380C7137C55}
+name: Home
+master: {00000000-0000-0000-0000-000000000000}
+template: {552724EF-8380-4AD9-8B6F-E55EE0241311}
+templatekey: Home Page
+created: 20180911T121258:636722647784700000
+
+----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 263
+
+<tracking>
+  <profile id="{82FBD4A9-F5C8-4333-959A-C205C4CD72ED}" name="Activity">
+    <key name="Cycling" value="0" />
+    <key name="Hiking" value="0" />
+    <key name="Climbing" value="0" />
+    <key name="Kayaking" value="0" />
+  </profile>
+</tracking>
+----version----
+language: en
+version: 1
+revision: e022f06d-e179-44be-8b91-7f1224b30335
+
+----field----
+field: {1384A77F-8E0C-40BA-B628-3C5ED330DD86}
+name: ContentHeading
+key: contentheading
+content-length: 6
+
+Events
+----field----
+field: {AE97D6D0-6BC0-4395-B623-4DBD705C3C18}
+name: ContentIntro
+key: contentintro
+content-length: 26
+
+Welcome to the Events site
+----field----
+field: {F35DACEC-61A9-49C5-90BD-05E58F0C7727}
+name: MetaTitle
+key: metatitle
+content-length: 4
+
+Home
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1669
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{772B421E-238F-4D6F-913D-716D8C4EAAF7}" p:before="*" s:ds="{073EA48E-7AF3-447C-9316-64311987737F}" s:id="{E71BB220-AC19-46E0-BE48-78668B1ADD09}" s:par="CssClass={7464304B-5A04-4C66-8B16-0D6629D6BFC8}" s:ph="/main/pageContent/featuredEvents"><rls><ruleset><rule uid="{32B5C491-31A9-4650-BE3D-15F73A86C187}" s:name="when visitor is hiker"><conditions><condition uid="11C43377D82941F78AD4790D63A08CF3" s:id="{E00DB4F0-B206-4544-AD90-25D201CFB62C}" s:ProfileName="Activity" s:PatternName="Hiking" /></conditions><actions><action uid="AD90A4649D4E47B48DC55B59EE90D33B" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{4E97EF06-4ED8-4296-A0CE-742C32FEC027}" /></actions></rule><rule uid="{00000000-0000-0000-0000-000000000000}" s:name="Default"><conditions><condition uid="FB19846FE78040C8AE5049EFD5E2AC41" s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" /></conditions><actions /></rule></ruleset></rls></r><r uid="{434B0243-CC9D-421F-9C5D-5424A9EE85D7}" p:after="r[@uid='{772B421E-238F-4D6F-913D-716D8C4EAAF7}']" s:ds="{B92DF4D2-F33F-4208-A387-8BAA4A5D7A62}" s:id="{E71BB220-AC19-46E0-BE48-78668B1ADD09}" s:par="CssClass={7464304B-5A04-4C66-8B16-0D6629D6BFC8}" s:ph="/main/pageContent/featuredEvents" /><r uid="{FAA26111-FD75-457B-B164-D2C67034FA1D}" p:after="r[@uid='{434B0243-CC9D-421F-9C5D-5424A9EE85D7}']" s:ds="{A8E5274F-8C3F-4E7A-9DF7-7ABA8C359C05}" s:id="{E71BB220-AC19-46E0-BE48-78668B1ADD09}" s:par="CssClass={E3047EE9-38E0-4E8F-AAB3-54014EDF64A4}&amp;ButtonText=More ..." s:ph="/main/pageContent/featuredEvents" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180911T121258Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e022f06d-e179-44be-8b91-7f1224b30335
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180925T074710Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

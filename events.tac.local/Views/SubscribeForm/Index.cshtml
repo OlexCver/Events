@@ -1,0 +1,20 @@
+﻿@using TAC.Utils.Helpers
+@model events.tac.local.Models.SubscribeFormModel
+<div class="side-widget">
+    <h4 class="text-uppercase">
+        @Model.SubscribeTitle
+    </h4>
+    <div class="sidebar">
+        <div class="text">
+            @Model.SubscribeText
+        </div>
+        @using (Html.BeginForm())
+        {
+            @Html.Sitecore().FormHandler()
+            <div>
+                <input class="form-control" type="email" placeholder="your@email.com" name="email">
+            </div>
+            <input class="btn btn-default" type="submit" value="Subscribe">
+        }
+    </div>
+</div>

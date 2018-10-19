@@ -1,0 +1,225 @@
+----item----
+version: 1
+id: {073EA48E-7AF3-447C-9316-64311987737F}
+database: master
+path: /sitecore/content/Events/Home/Events/Climbing/2018/09/Climb Mount Everest
+parent: {7FF5B830-1289-4ED7-A188-A5B263EDAFB0}
+name: Climb Mount Everest
+master: {00000000-0000-0000-0000-000000000000}
+template: {FAA70993-D6D8-441F-9DFE-32E44B71744D}
+templatekey: Event Details
+created: 20180911T123253:636722659733730000
+
+----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 290
+
+<tracking>
+  <profile id="{61914E47-FAB2-4459-9B74-7AF2D55E7D47}" name="Activity" presets="mid hike|100||">
+    <key name="Cycling" value="0" />
+    <key name="Climbing" value="0" />
+    <key name="Kayaking" value="0" />
+    <key name="Trekking" value="0" />
+  </profile>
+</tracking>
+----version----
+language: de-DE
+version: 1
+revision: 004620cf-d0bf-422d-9c47-dee346f6ccda
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180912T055624Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+004620cf-d0bf-422d-9c47-dee346f6ccda
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180912T061450Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 6c4657d1-2954-4fb8-a6c1-06bebdf9e025
+
+----field----
+field: {CC18D7A3-B78F-4052-98A6-3AC8BBFBA977}
+name: ContentBody
+key: contentbody
+content-length: 24
+
+Climb Mount Everest body
+----field----
+field: {1384A77F-8E0C-40BA-B628-3C5ED330DD86}
+name: ContentHeading
+key: contentheading
+content-length: 19
+
+Climb Mount Everest
+----field----
+field: {AE97D6D0-6BC0-4395-B623-4DBD705C3C18}
+name: ContentIntro
+key: contentintro
+content-length: 25
+
+Climb Mount Everest Intro
+----field----
+field: {F994B984-4F25-41E1-8680-A6A297242950}
+name: Event Image
+key: event image
+content-length: 178
+
+<image mediapath="" alt="climbing-events" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{3DD8D5A3-4316-431D-8405-A9397DFE08D1}" ></image>
+----field----
+field: {316D090C-0128-4C15-AE3E-0B7AC6423197}
+name: DecorationBanner
+key: decorationbanner
+content-length: 239
+
+<image mediapath="/TAC/Common/Headings/carousel-climbing" alt="" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="~/media/TAC/Common/Headings/carousel-climbing" mediaid="{4764709B-629D-4D23-80D0-EBCA1B2920FF}" />
+----field----
+field: {F35DACEC-61A9-49C5-90BD-05E58F0C7727}
+name: MetaTitle
+key: metatitle
+content-length: 28
+
+Natore Climb the Adirondacks
+----field----
+field: {DACDF713-6784-4323-ADED-DE3D14C9366D}
+name: MetaDescription
+key: metadescription
+content-length: 16
+
+meta description
+----field----
+field: {25D57132-8BA2-4B84-A218-04EF4B7473D1}
+name: ExcludeFromNavigation
+key: excludefromnavigation
+content-length: 0
+
+
+----field----
+field: {D3355E3F-5A74-48D8-9077-DC53163DB895}
+name: Start Date
+key: start date
+content-length: 15
+
+20180914T000000
+----field----
+field: {A7591EE3-A4CA-4926-A1D3-E596D58A0B9B}
+name: Duration
+key: duration
+content-length: 1
+
+3
+----field----
+field: {7553DCB7-13CE-4865-8892-FA6D7ECFF9B9}
+name: Difficulty Level
+key: difficulty level
+content-length: 1
+
+3
+----field----
+field: {68ACBB05-02B9-451D-A85C-71074DB5D8D7}
+name: RobotsIndex
+key: robotsindex
+content-length: 0
+
+
+----field----
+field: {648581F5-0B1B-40C7-AD1A-5991FB630DA3}
+name: RobotsFollow
+key: robotsfollow
+content-length: 0
+
+
+----field----
+field: {6A2059C2-E5B5-45D0-8CAA-9EAFC79072AE}
+name: Related Events
+key: related events
+content-length: 155
+
+{2C6E32A2-8D65-4B97-B9B6-87B3D2284033}|{2B059812-8C5C-4ECF-BEB4-EDB5BB594744}|{A8E5274F-8C3F-4E7A-9DF7-7ABA8C359C05}|{B92DF4D2-F33F-4208-A387-8BAA4A5D7A62}
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 0
+
+
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 467
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{2DBB36A3-571F-4151-8B1D-67651C5B32AA}"><p:d /></r><r uid="{EF26ED29-2DC6-4D25-A312-BBB97066A49F}" p:before="*" s:id="{88196EC6-9526-4A75-B9F1-109ACAB79D31}" s:ph="main" /><r uid="{ED3AA11D-0E0A-4F1E-AADC-5119821B9EF9}" s:ds="{F5E62740-F1B1-497D-BC1D-126B6E62BD15}" s:par="TemplateName={CF898613-BF20-4742-ACBC-5B1CAE4B7E7E}" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180911T123253Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6c4657d1-2954-4fb8-a6c1-06bebdf9e025
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180928T061011Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

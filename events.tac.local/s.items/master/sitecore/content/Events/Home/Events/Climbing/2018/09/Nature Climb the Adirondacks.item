@@ -1,0 +1,157 @@
+----item----
+version: 1
+id: {2B059812-8C5C-4ECF-BEB4-EDB5BB594744}
+database: master
+path: /sitecore/content/Events/Home/Events/Climbing/2018/09/Nature Climb the Adirondacks
+parent: {7FF5B830-1289-4ED7-A188-A5B263EDAFB0}
+name: Nature Climb the Adirondacks
+master: {00000000-0000-0000-0000-000000000000}
+template: {FAA70993-D6D8-441F-9DFE-32E44B71744D}
+templatekey: Event Details
+created: 20180911T123253:636722659734270000
+
+----field----
+field: {31B35FC7-7472-4EE8-A6B8-530126C534E4}
+name: Highlights
+key: highlights
+content-length: 345
+
+Nature Climb the Adirondacks
+<ul>
+    <li>Jaw-dropping view down the waterfall from the top of Vernal Falls</li>
+    <li>Staying at the gorgeous Ahwahnee Hotel, a National Historic Landmark</li>
+    <li>Reaching the summit and taking in the spectacular views!</li>
+    <li>The wildflowers and manzanitas of sun-drenched Wawona meadows</li>
+</ul>
+----version----
+language: en
+version: 1
+revision: fb293756-d83a-4b79-9b45-82ea67ee023d
+
+----field----
+field: {CC18D7A3-B78F-4052-98A6-3AC8BBFBA977}
+name: ContentBody
+key: contentbody
+content-length: 53
+
+<p>Natre Climb the Adirondacks body</p>
+<p>&nbsp;</p>
+----field----
+field: {1384A77F-8E0C-40BA-B628-3C5ED330DD86}
+name: ContentHeading
+key: contentheading
+content-length: 28
+
+Nature Climb the Adirondacks
+----field----
+field: {AE97D6D0-6BC0-4395-B623-4DBD705C3C18}
+name: ContentIntro
+key: contentintro
+content-length: 34
+
+Nature Climb the Adirondacks Intro
+----field----
+field: {F994B984-4F25-41E1-8680-A6A297242950}
+name: Event Image
+key: event image
+content-length: 171
+
+<image mediapath="" alt="climbing-events" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{521820AB-32F9-4855-922B-2349A60B2238}" />
+----field----
+field: {316D090C-0128-4C15-AE3E-0B7AC6423197}
+name: DecorationBanner
+key: decorationbanner
+content-length: 273
+
+<image mediapath="/TAC/Common/Headings/Cycling-from-Bangkok-to-Chiang-Mai" alt="" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="~/media/TAC/Common/Headings/Cycling-from-Bangkok-to-Chiang-Mai" mediaid="{58B6EF06-2388-4EEA-9A1B-A195D47894B2}" />
+----field----
+field: {F35DACEC-61A9-49C5-90BD-05E58F0C7727}
+name: MetaTitle
+key: metatitle
+content-length: 28
+
+Natore Climb the Adirondacks
+----field----
+field: {DACDF713-6784-4323-ADED-DE3D14C9366D}
+name: MetaDescription
+key: metadescription
+content-length: 4
+
+meta
+----field----
+field: {25D57132-8BA2-4B84-A218-04EF4B7473D1}
+name: ExcludeFromNavigation
+key: excludefromnavigation
+content-length: 0
+
+
+----field----
+field: {D3355E3F-5A74-48D8-9077-DC53163DB895}
+name: Start Date
+key: start date
+content-length: 15
+
+20180913T000000
+----field----
+field: {A7591EE3-A4CA-4926-A1D3-E596D58A0B9B}
+name: Duration
+key: duration
+content-length: 1
+
+3
+----field----
+field: {7553DCB7-13CE-4865-8892-FA6D7ECFF9B9}
+name: Difficulty Level
+key: difficulty level
+content-length: 1
+
+3
+----field----
+field: {68ACBB05-02B9-451D-A85C-71074DB5D8D7}
+name: RobotsIndex
+key: robotsindex
+content-length: 0
+
+
+----field----
+field: {648581F5-0B1B-40C7-AD1A-5991FB630DA3}
+name: RobotsFollow
+key: robotsfollow
+content-length: 0
+
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180911T123253Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+fb293756-d83a-4b79-9b45-82ea67ee023d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180927T111733Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {63B2699C-4BA7-4768-BBE3-4BF1B97DFC38}
+database: master
+path: /sitecore/content/Events/Dictionary/SubscribeForm/SubscribeText
+parent: {1F7E3E8C-75D0-4BCA-A99F-4C173A7B2907}
+name: SubscribeText
+master: {00000000-0000-0000-0000-000000000000}
+template: {6AF3B7E7-3487-46BC-8827-E33D9884B07F}
+templatekey: Dictionary
+created: 20180920T082720:636730288400700000
+
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 22
+
+control/16x16/edit.png
+----version----
+language: en
+version: 1
+revision: df055226-0ff0-430c-b034-622620374451
+
+----field----
+field: {CBF600B0-D1F1-49DF-A5F3-1570FED36F9B}
+name: Key
+key: key
+content-length: 13
+
+SubscribeText
+----field----
+field: {5FD80D30-B591-438A-8481-2696E8EC0BDC}
+name: Text
+key: text
+content-length: 91
+
+Subscribe to our monthly newsletter and be the first to learn about our forthcoming events.
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180920T082720Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+df055226-0ff0-430c-b034-622620374451
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180920T083025Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

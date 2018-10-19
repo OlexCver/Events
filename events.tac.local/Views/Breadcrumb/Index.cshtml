@@ -1,0 +1,15 @@
+﻿@using Sitecore.Data.Items
+@model IEnumerable<events.tac.local.Models.NavigationItem>
+
+<ol class="breadcrumb">
+    @foreach (var navItem in Model)
+    {
+        <li>
+            <a class="@(navItem.Active ? "active" : string.Empty)" href="@navItem.Url">
+                @navItem.Title
+            </a>
+        </li>
+    }
+</ol>
+
+
