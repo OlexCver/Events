@@ -92,9 +92,7 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\events.tac.local\events.tac.local.csproj">
       <Project>{AF46B6F3-28DB-41FC-9841-A3DA3DC37690}</Project>
